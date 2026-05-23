@@ -9,7 +9,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/trongphuc207" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="trongphuc207" height="30" width="40" /></a>
-<a href="https://fb.com/Trọng Phúc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Trọng Phúc" height="30" width="40" /></a>
+<a href="https://fb.com/imphucs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Trọng Phúc" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
